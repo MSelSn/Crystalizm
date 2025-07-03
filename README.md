@@ -1,4 +1,4 @@
-# Crystalizm
+# Unreal Engine Version
 
 Compatible with Unreal Engine version 5.4.4
 
@@ -11,3 +11,15 @@ Our character discovers a cave while returning to the guild after an adventure. 
 - When you go to the settings menu, there is a brief audio distortion.
 
 - When an enemy is killed, it continues to follow the character.
+
+# Controls
+
+- WASD = Movement Keys
+
+- Left Shift = Running
+
+- Mouse Left Button = Attack
+
+- Space = Jump
+
+- ESC / P = Game Pause
