@@ -8,8 +8,6 @@ Our character discovers a cave while returning to the guild after an adventure. 
 
 # Issues
 
-- When you go to the settings menu, there is a brief audio distortion.
-
 - When an enemy is killed, it continues to follow the character.
 
 - Attack animations are reset when the character takes damage in combat
